@@ -98,7 +98,7 @@ var skills = [
 	{
 		id: 1,
 		name: 'JavaScript',
-		experience: 'Expert'
+		experience: '"Expert"'
 	},
 	{
 		id: 2,
